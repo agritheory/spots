@@ -1,0 +1,7 @@
+## SPOTS
+
+SPOTS
+
+#### License
+
+MIT

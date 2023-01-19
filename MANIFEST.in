@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include spots *.css
+recursive-include spots *.csv
+recursive-include spots *.html
+recursive-include spots *.ico
+recursive-include spots *.js
+recursive-include spots *.json
+recursive-include spots *.md
+recursive-include spots *.png
+recursive-include spots *.py
+recursive-include spots *.svg
+recursive-include spots *.txt
+recursive-exclude spots *.pyc
